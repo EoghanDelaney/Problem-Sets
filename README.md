@@ -1,6 +1,6 @@
 # pands-problem-set
 
-Problem Set 2019
+## Problem Set 2019
 Programming and Scripting
 Due: last commit on or before March 31st
 This document contains the instructions for Problem Set 2019 for Programming and
