@@ -26,7 +26,7 @@ try :
             x += (i+1)
         print(x)
     else:
-        print("This is less than 0 - Therefor not positive!")
+        print("This is less than 0 - Therefore not positive!")
 except ValueError:
     print("This is not a integer!")
 
