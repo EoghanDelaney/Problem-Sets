@@ -36,4 +36,3 @@ except ValueError:
 #I have then used a Try expect function as mentioned above try one thing and if there is an error print the following "This is not..."
 #The try element is where the calculation is worked out if the input is greater than 0 we can continue.
 # I then declared a term X this can hold the sum value. I then used the range from Zero to the number to add to X
-# 

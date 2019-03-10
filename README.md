@@ -2,7 +2,7 @@
 
 This repository contains my solution to the Problem Set 2019 for the module Programing and Scripting at GMIT.
 
-## How to download the repositiry
+## How to download the repository
  1. 
  2. 
 
