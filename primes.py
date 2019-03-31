@@ -1,9 +1,7 @@
 ## In this instance i have used the following link to help me in this question.
 ## https://www.programiz.com/python-programming/examples/prime-number
 ## I have adapted it to read the way i would want it.
-## The core of this question is how to calculate a prime number & having reviewed the above link it is clear something that is divisible by only itself and one!
-
-
+## The core of this question is how to calculate a prime number & having reviewed the above link it is clear - something that is divisible by only itself and one!
 
 value = int(input("Please enter a positive integer: "))
 # as previous questions the try element is to determine wheather the user inputted a positive integer

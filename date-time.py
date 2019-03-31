@@ -3,7 +3,6 @@ from datetime import date
 # http://strftime.org/
 # https://stackoverflow.com/questions/5891555/display-the-date-like-may-5th-using-pythons-strftime
 
-# I used the module for this question.
 # Using the above website it was straightforward to manipulate the string to the desire format. 
 # The issue i found was the "th" following the 10 - 
 # 1st, 2nd, 3rd, 4th, 5th.....31st

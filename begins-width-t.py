@@ -1,5 +1,5 @@
-# For this problem i used the python documentation http://strftime.org/
-# Once datetime can determine the day of the week in string format the rest is straightfoward
+# For this problem I used the python documentation http://strftime.org/
+# Once datetime can determine the day of the week in string format the rest is straightforward
 
 import time
 from datetime import datetime
@@ -10,7 +10,7 @@ day = date.strftime("%A") # get the day of the week in text format "Thursday"
 
 daylet = day[0] # get the first letter of the day
 
-# Now a straightforward if statement to output based on the value of daylet
+# Now a straightforward if statement to compare the output from daylet
 if daylet == "T":
     print ("Yes - Today begins with the letter T:" + day)
 else:

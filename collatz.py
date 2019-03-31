@@ -1,12 +1,13 @@
 # The first problem with this question was to determine what the collatz series was.
 
+# Ask the user to input a integer
 value = input("Please enter a positive integer:")
 
-# Firstly we have to determine wheather the user did in fact input an integer try and except
+# We have to determine wheather the user did in fact input an integer using try and except
 try : 
     number = int(value)
     while number > 1:
-        if (number%2) == 0: # If the number is even the modulous remainder will be zero
+        if (number%2) == 0: # If the number is even the modulus remainder will be zero
             number = (number/2) # Divide by two
             print(number)
         else: # If the number is odd multiply by 3 and add 1

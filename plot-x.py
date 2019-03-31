@@ -1,6 +1,7 @@
 # For this example I used the lecture notes and the article listed
 # https://matplotlib.org/users/pyplot_tutorial.html
-# Import the relevent libraries
+
+# Import the relevent libraries as plt to reduce the code
 import matplotlib.pyplot as plt
 
 # This is the question asked to the user
@@ -20,7 +21,7 @@ for i in range(0,5):
     twox.append(2**i)
 
 # This function will be used later in all examples to prevent re-writing code over and over
-# THis code lables the graph with a title and labels the Axis and plots the graph
+# This code lables the graph with a title and labels the Axis and plots the graph
 def launch_graph():
     plt.title('Question 10: x and f(x)')
     plt.axis([0, 5, 0, 20])
