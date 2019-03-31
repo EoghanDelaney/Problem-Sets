@@ -1,21 +1,21 @@
 # Problem Set Solutions Eoghan Delaney
 
-This repository contains my solution to the Problem Set 2019 for the module Programing and Scripting at GMIT.
+This repository contains my solution to the Problem Set 2019 for the module Programming and Scripting at GMIT.
 
-Having completed the problem set I believe I have a better grasp of programming and of using python.
+Having completed the problem set I believe I have a better grasp of programming and of using Python.
 
 ## How to download the repository
-There are two ways to download/clone the repositories, one if you have GIT installed on your machine otherwise we can download a Zip file containing all the scripts.
-When using GIT we follow the below steps
- - - Open your command line on your machine.
-    - Move to a directory you wish to save the files into using the following commands cd followed by the file path eg *cd C:\Users\eoghan\Desktop\pands-problem-set*
+There are two ways to download/clone the repositories - one, if you have GIT installed on your machine, or two, we can download a Zip file containing all the scripts.
+When using GIT we follow the below steps:
+ - - Open your command line on your machine
+    - Move to a directory you wish to save the files into using the following commands, cd followed by the file path eg *cd C:\Users\eoghan\Desktop\pands-problem-set*
     - Once in the directory you now clone the repository using the following command ***"git clone https://github.com/EoghanDelaney/Problem-Sets"***
     - The folder should now be in the directory listed in second step
 
-If you do not have access to git the following steps can be taken.
+If you do not have access to git, the following steps can be taken:
  - - On your internet browser navigate to the following URL https://github.com/EoghanDelaney/Problem-Sets
     - Listed on the page is a green button **"Clone or download"** - click this button.
-    - Once the dropdown appears click the **"Download Zip"** button. This will automaticly download the files to your downloads folder.
+    - Once the dropdown appears click the **"Download Zip"** button. This will automatically download the files to your downloads folder.
     - Navigate to your downloads folder on your computer and the Zip folder, containing the scripts, will be visible.
     - The folder can now be cut/copied into a folder of your choosing.
     - Finally you can now Unzip the folder by right-clicking on it and selecting unzip.
@@ -23,14 +23,14 @@ If you do not have access to git the following steps can be taken.
 
 
 ## How to run the code
-Once the repository is downloaded the following steps are required to run the code.
-- Please log on to anaconda.com and download the latest version of Python 3 (this comes with a number of moduels preinstalled that will come in helpful).
-- Once complete we must now download all the most uptodate modules using ***pip***. As above we must open the command line and type the following command "**pip install moduleName**".
-    - These are a list of the module names used in the problemset - ***time***, ***datetime***, ***matplotlib***, ***sys***, ***math*** - some of these may come as part of the Anaconda package and it will return *Requirement already satisfied*, this will have no effect on your existing packages.
+Once the repository is downloaded the following steps are required to run the code:
+- Please log on to anaconda.com and download the latest version of Python 3 (this comes with a number of modules preinstalled that will be helpful).
+- Once complete we must now download all the most up-to-date modules using ***pip***. As above we must open the command line and type the following command "**pip install moduleName**".
+    - These are a list of the module names used in the problem-set - ***time***, ***datetime***, ***matplotlib***, ***sys***, ***math*** - some of these may come as part of the Anaconda package and it will return *Requirement already satisfied*, this will have no effect on your existing packages.
 - In order to run each of the scripts we navigate to the download/saved location and write the following command "***python filename.py***". The filenames are listed below. This will then execute the solution I have written.
 
 ## What each file contains
-Below is a list of the soultions and question (The questions are transcribed directly from the question paper)
+Below is a list of the solutions and questions (The questions are transcribed directly from the question paper)
 
     1. **sumupto.py** - Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number.
     

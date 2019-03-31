@@ -1,9 +1,9 @@
 # The first problem with this question was to determine what the collatz series was.
 
-# Ask the user to input a integer
+# Ask the user to input an integer
 value = input("Please enter a positive integer:")
 
-# We have to determine wheather the user did in fact input an integer using try and except
+# We have to determine whether the user did in fact input an integer using try and except
 try : 
     number = int(value)
     while number > 1:

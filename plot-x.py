@@ -21,7 +21,7 @@ for i in range(0,5):
     twox.append(2**i)
 
 # This function will be used later in all examples to prevent re-writing code over and over
-# This code lables the graph with a title and labels the Axis and plots the graph
+# This code labels the graph with a title and labels the Axis and plots the graph
 def launch_graph():
     plt.title('Question 10: x and f(x)')
     plt.axis([0, 5, 0, 20])

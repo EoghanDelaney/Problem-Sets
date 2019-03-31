@@ -1,6 +1,6 @@
-# This problem was straightforward - firstly asking the user to input a positive number 
+# Firstly ask the user to input a positive number 
 # Then we must insure it is a number using the try except
-# Once confirmed we apply an if statement if the number is greater or equal to 1
+# Once confirmed we apply an "if statement", if the number is greater or equal to 1
 # Number to the power of a half is the same as the square root
 # This is the printed out on the command line rounded to one decimal
 import math
