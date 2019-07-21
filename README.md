@@ -32,25 +32,25 @@ Once the repository is downloaded the following steps are required to run the co
 ## What each file contains
 Below is a list of the solutions and questions (The questions are transcribed directly from the question paper)
 
-    1. **sumupto.py** - Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number.
+    1. *sumupto.py* - Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number.
     
-    2. **begins-with-t.py** - Write a program that outputs whether or not today is a day that begins with the letter T. 
+    2. *begins-with-t.py* - Write a program that outputs whether or not today is a day that begins with the letter T. 
     
-    3. **divisors.py** - Write a program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12.
+    3. *divisors.py* - Write a program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12.
     
-    4. **collatz.py** - Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
+    4. *collatz.py* - Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
     
-    5. **primes.py** - Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime.
+    5. *primes.py* - Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime.
     
-    6. **secondstring.py** - Write a program that takes a user input string and outputs every second word.
+    6. *secondstring.py* - Write a program that takes a user input string and outputs every second word.
 
-    7. **squareroot.py** - Write a program that that takes a positive floating point number as input and outputs an approximation of its square root.
+    7. *squareroot.py* - Write a program that that takes a positive floating point number as input and outputs an approximation of its square root.
 
-    8. **datetime.py** - Write a program that outputs today’s date and time in the format “Monday, January 10th 2019 at 1:15pm”.
+    8. *datetime.py* - Write a program that outputs today’s date and time in the format “Monday, January 10th 2019 at 1:15pm”.
 
-    9. **second.py moby-dick.txt** - Write a program that reads in a text file and outputs every second line. The program should take the filename from an argument on the command line.
+    9. *second.py moby-dick.txt* - Write a program that reads in a text file and outputs every second line. The program should take the filename from an argument on the command line.
 
-    10. **pot-x.py** - Write a program that displays a plot of the functions x, x2 and 2x in the range [0, 4]
+    10. *pot-x.py* - Write a program that displays a plot of the functions x, x2 and 2x in the range [0, 4]
 
 
 
